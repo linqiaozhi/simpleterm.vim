@@ -387,7 +387,7 @@ nnor <Leader>s0 :Sshow -1<CR>
 
 " In terminal, use <ESC> to toggle terminal-mode
 " then, use a or i to back to terminal-mode, like insert-mode
-tnor <ESC>   <C-\><C-n>          
+' tnor <ESC>   <C-\><C-n>          
 
 
 " vim:fdm=indent:
